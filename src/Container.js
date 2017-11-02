@@ -4,7 +4,8 @@ import update from 'react-addons-update'
 import Card from './Card'
 
 const style = {
-    width: '100%'
+    width: '100%',
+    color: 'white'
 }
 
 class Container extends Component {
