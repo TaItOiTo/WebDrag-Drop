@@ -24,15 +24,6 @@ class Container extends Component {
             }, {
                 id: 4,
                 text: 'Taito Ito'
-            }, {
-                id: 5,
-                text: 'Nagai Yota'
-            }, {
-                id: 6,
-                text: 'Nioka Takuya'
-            }, {
-                id: 7,
-                text: 'Sakai Yukina'
             }]
         }
     }
